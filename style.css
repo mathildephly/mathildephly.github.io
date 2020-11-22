@@ -1,0 +1,22 @@
+h1{color:red;
+	font-size: 80px;
+	text-align: center;
+   }
+
+h2{color:red;
+	text-decoration:underline;
+	font-size: 40px;
+	font-weight: bold;
+	font-style: italic;
+	font-style: oblique;
+    }
+body{
+	background-image: url("imageN.jpg");
+    }
+
+h3{font-size: 30px;
+	color:white;
+  }    
+
+body{font-family:'Netflix Sans','Helvetica Neue',Helvetica,Arial,sans-serif
+}
